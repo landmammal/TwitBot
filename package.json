@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/landmammal/TwitBot#readme",
   "devDependencies": {
-    "nodemon": "^1.18.10"
+    "nodemon": "^1.18.10",
+    "twit": "^2.2.11"
+  },
+  "dependencies": {
+    "dotenv": "^7.0.0"
   }
 }
