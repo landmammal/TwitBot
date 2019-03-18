@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "A simple Bot that can post twitts every so often.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landmammal/TwitBot.git"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "iCreate <idevelopedreams@gmail.com> (live2create.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landmammal/TwitBot/issues"
+  },
+  "homepage": "https://github.com/landmammal/TwitBot#readme"
+}
