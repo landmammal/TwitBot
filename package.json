@@ -4,6 +4,7 @@
   "description": "A simple Bot that can post twitts every so often.",
   "main": "src/bot.js",
   "scripts": {
+    "start": "node src/bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/landmammal/TwitBot/issues"
   },
-  "homepage": "https://github.com/landmammal/TwitBot#readme"
+  "homepage": "https://github.com/landmammal/TwitBot#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
